@@ -1,0 +1,52 @@
+header {
+  text-align:center;
+  margin: 0px;
+  background: #BF9C68;
+  padding: 2em;
+
+}
+
+
+
+h1 {
+  padding-top: 1em;
+  font-size: 3.5em;
+}
+
+
+img {
+  max-width:100%;
+
+}
+
+#info p {
+  padding: .5em 2.5em;
+}
+
+
+#info {
+  background: #E5BB7D;
+  padding: 2em;
+}
+
+#info img {
+
+}
+
+footer {
+  background:#7F6845;
+  padding: 2em;
+}
+
+#siteInfo{
+  padding: 5em;
+}
+
+
+/*
+
+some colors I might like to use.
+
+
+
+*/
